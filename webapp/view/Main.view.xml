@@ -1,0 +1,25 @@
+<mvc:View controllerName="com.flexso.htf.HTF2020.controller.Main" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:htf="htf" xmlns:f="sap.ui.layout.form">
+	<App id="app">
+		<pages>
+			<Page id="page" title="{i18n>title}">
+				<content>
+					<FlexBox height="100%" alignItems="Center" justifyContent="Center" direction="Column" renderType="Bare">
+						<f:SimpleForm>
+							<f:content>
+								<Label text="Difficulty" />
+								<Text text="{/difficulty}" />
+								<Label text="GameId" />
+								<Text text="{/gameId}" />
+								<Label text="Step" />
+								<Text text="{/step}" />
+							</f:content>
+						</f:SimpleForm>
+						<htf:PlayGround id="playGround"
+						></htf:PlayGround>
+						<Button text="{i18n>restart}" press="onRestart"/>
+					</FlexBox>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

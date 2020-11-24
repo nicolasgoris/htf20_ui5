@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3552.53,0)">
+        <g id="finish" transform="matrix(1,0,0,1,12.5348,0)">
+            <rect x="3540" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g>
+                <g transform="matrix(1.27941,0,0,1.27941,-1017.79,-203.98)">
+                    <circle cx="3983.67" cy="739.773" r="16.816"/>
+                </g>
+                <g transform="matrix(1.00288,0,0,1,-25.308,0)">
+                    <rect x="3751.21" y="298.102" width="687.483" height="381.825" style="fill:none;stroke:black;stroke-width:18px;"/>
+                </g>
+                <g transform="matrix(1.1482,0,0,1.47409,-622.875,-194.233)">
+                    <path d="M4438.69,326.458C4438.69,318.938 4434.86,311.725 4428.03,306.407C4421.2,301.089 4411.94,298.102 4402.29,298.102L3787.61,298.102C3777.96,298.102 3768.7,301.089 3761.87,306.407C3755.04,311.725 3751.21,318.938 3751.21,326.458L3751.21,651.57C3751.21,659.091 3755.04,666.304 3761.87,671.622C3768.7,676.94 3777.96,679.927 3787.61,679.927L4402.29,679.927C4411.94,679.927 4421.2,676.94 4428.03,671.622C4434.86,666.304 4438.69,659.091 4438.69,651.571L4438.69,326.458Z" style="fill:none;stroke:black;stroke-width:13.64px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-12.5348,0)">
+                    <path d="M3951.02,880.237L4237.89,880.237" style="fill:none;stroke:black;stroke-width:18.02px;"/>
+                </g>
+                <g transform="matrix(1,0,0,0.973108,-12.5348,23.6714)">
+                    <path d="M4055.88,806.048L4055.88,880.237" style="fill:none;stroke:black;stroke-width:18.27px;"/>
+                </g>
+                <g transform="matrix(1,0,0,0.973108,62.6432,23.6714)">
+                    <path d="M4055.88,806.048L4055.88,880.237" style="fill:none;stroke:black;stroke-width:18.27px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,23.7072,1.36424e-12)">
+                    <text x="3833.72px" y="540px" style="font-family:'FranklinGothic-Demi', 'Franklin Gothic Demi', sans-serif;font-size:144px;">&lt;EVIL&gt;</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
