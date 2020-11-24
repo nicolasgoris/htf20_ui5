@@ -324,7 +324,7 @@ sap.ui.define([
 		},
 
 		_removePlayer: function () {
-			this._drawRectangle(this.getPlayerLocX(), this.getPlayerLocY());
+			this._drawBackground(this.getPlayerLocX(), this.getPlayerLocY());
 		},
 
 		_drawMonsters: function () {
@@ -347,7 +347,7 @@ sap.ui.define([
 			img.onload = function () {
 				if (aMonsters) {
 					aMonsters.forEach(function (oMonster) {
-						this._drawRectangle(oMonster.getLocX(), oMonster.getLocY());
+						this._drawBackground(oMonster.getLocX(), oMonster.getLocY());
 					}.bind(this));
 				}
 			}.bind(this);

@@ -14,7 +14,14 @@
 								<Text text="{/step}" />
 							</f:content>
 						</f:SimpleForm>
-						<htf:PlayGround id="playGround"
+						<htf:PlayGround id="playGround" showTechInfo="true"
+							initiatePlayer="onInitiatePlayer"
+							initiateMonsters="onInitiateMonsters"
+							keyStroke="onKeyStroke"
+							afterKeyStroke="onAfterKeyStroke"
+						 	changePlayerLocX="onChangePlayerLocX"
+						 	changePlayerLocY="onChangePlayerLocY"
+							requestConfirmation="onRequestConfirmation"
 						></htf:PlayGround>
 						<Button text="{i18n>restart}" press="onRestart"/>
 					</FlexBox>
